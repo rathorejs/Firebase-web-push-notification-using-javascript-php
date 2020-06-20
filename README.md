@@ -22,5 +22,7 @@ Go in Project setting > Cloud messaging > Copy server key and use in send.php fi
 # How to use 
 
 When you run receive.php file in your browser this will ask for messaging permission if not ask of any reason click on url lock and allow from there. <br>
-After this reload your page and your web device token print in your web page in 5 secound.<br>
-Copy this token and open send.php file in your browser enter your token here with message and url.
+After this reload your page your device token will be show in your web page in 5 secound.(you can also copy token from console log)<br>
+Copy this token and open send.php file in your browser enter your token here with message and url. <br>
+You will recevie push notification on receive.php file 
+
