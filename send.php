@@ -19,7 +19,7 @@
 if($_POST){
 
     // set your project api access key from location (project seting > cloud messinging > server key)
-    $apiAccessKey = 'AAAAmvv0iAY:APA91bEJd5Q6un_2MDRUn44iCFistpiyVrSOs2A7R9GZfJIiK5YtWBUuknp01vDEM0NxF_U6eh8qG34UC0MQki3zmb3OVaJsbPChpQ1mLEl1Wzj1xskvIzBBK1ZlayluUsQrmq8HSerO';
+    $apiAccessKey = 'SERVER_KEY';
      $token = $_REQUEST['token'];
      $message = $_REQUEST['message'];
      $url = $_REQUEST['url'];
