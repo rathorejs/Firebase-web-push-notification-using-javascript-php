@@ -8,7 +8,7 @@ URL - https://console.firebase.google.com
 
 # Steps
 
-1 Create proejct after login in firebase <br>
+1 Create project after login in firebase <br>
 2 Go > Cloud messaging > Click on code ICON  <br>
 3 Register app with App nickname <br>
 4 After register the app this will give you some java script code with APP_KEY and Other informaction, so copy this code and using in shared code.
